@@ -1,0 +1,25 @@
+Inhibitor	Targets	Source
+AMD3100	CXCR4	https://www.tocris.com/products/amd-3100-octahydrochloride_3299
+GNF 5837	NTRK1,NTRK2,NTRK3,PDGFRA,PDGFRB,KIT	https://www.tocris.com/products/gnf-5837_4559
+Aphidicolin	POLA1,POLA2,PRIM1,PRIM2	https://www.sigmaaldrich.com/US/en/product/sigma/a4487
+Batimastat	MMP1,MMP2,MMP3,MMP7,MMP9,ADAM8,ADAM17,ACE	https://www.emdmillipore.com/US/en/product/Batimastat-CAS-130370-60-4-Calbiochem,EMD_BIO-196440
+BCI.HCl	DUSP1	https://www.sigmaaldrich.com/US/en/product/sigma/b4313
+C021.2HCl	CCR4	https://www.tocris.com/products/c-021-dihydrochloride_3581
+CID-2011756	PRKD2,PRKD3,PRKD1	https://www.tocris.com/products/cid-2011756_4644
+CID-755673	PRKD1,PRKD2,PRKD3,PRKCA,PRKCB,PRKCG,CDK7,CCNH,MNAT1,PLK1,CAMK2A,AKT1,AKT2,AKT3	https://www.tocris.com/products/cid-755673_3327
+CP 690550	JAK3,JAK2,JAK1	https://www.tocris.com/products/cp-690550-citrate_4556
+Genistein	EGFR,PRKACA,PRKACB,PRKACG,PRKAR1A,PRKAR1B,PRKAR2A,PRKAR2B,PRKCA,PRKCB,PRKCG,TOP2A,TOP2B	https://www.sigmaaldrich.com/US/en/product/mm/345834
+GM6001	MMP1,MMP2,MMP3,MMP7,MMP8,MMP9,MMP12,MMP14,MMP26	https://www.selleckchem.com/products/gm6001.html?gclid=CjwKCAiAgbiQBhAHEiwAuQ6BkqtEDQVxQxDZa2S7D9fWAvXPRcN04PGu4pYweVMOCkp9I0b0E-nPfRoCKHwQAvD_BwE
+Gö-6976	PRKCA,PRKCB,PRKCD,PRKCE,PRCKZ,PRKD1,NTRK1,NTRK2,JAK2,JAK3	https://www.tocris.com/products/go-6976_2253
+Gö-6983	PRKCA,PRKCB,PRKCD,PRKCG,PRKCZ,PRKD1	https://www.tocris.com/products/go-6983_2285
+Isradipine	CACNA1C,CACNA1D,CACNA1F,CACNA1S	https://www.tocris.com/products/isradipine_2004
+kb-NB142-70	PRKD1,PRKD2,PRKD3	https://www.tocris.com/products/kb-nb-142-70_3962
+LY-364947	TGFBR1,TGFBR2	https://www.tocris.com/products/ly-364947_2718
+PF-543	SPHK1,SPHK2	https://www.emdmillipore.com/US/en/product/Sphingosine-Kinase-1-Inhibitor-II-PF-543-CAS-1415562-82-1-Calbiochem,EMD_BIO-567741
+Phosphoramidon	MME	https://www.tocris.com/products/phosphoramidon-di-sodium-salt_6333
+RGD peptide	ITGB1	https://www.sigmaaldrich.com/US/en/product/sigma/a8052
+Ro 32-0432.HCl	PRKCA,PRKCB,PRKCG,PRKCE	https://www.tocris.com/products/ro-32-0432-hydrochloride_1587
+SB-525334	TGFBR1	https://www.tocris.com/products/sb-525334_3211
+SKI-5C	SPHK1	https://www.sigmaaldrich.com/US/en/product/sigma/s8326
+Sorafenib	KDR,PDGFRB,ARAF,BRAF,RAF1,FGFR1,FLT4,KIT,FLT3	https://lclabs.com/products/s-8502-sorafenib-p-toluenesulfonate-salt
+Taxol	BCL2,TUBB,TUBB1,TUBB2A,TUBB2B,TUBB3,TUBB4A,TUBB4B,TUBB6,TUBB8	Repurposing_Hub
