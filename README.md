@@ -5,13 +5,13 @@
 Clone the development version from GitHub
 
 ```shell
-git clone https://github.com/joelbaderlab/netresponse_dev.git
+git clone https://github.com/joelbaderlab/netresponse_2023.git
 ```
 
 Change directory
 
 ```shell
-cd netresponse_dev
+cd netresponse_2023
 ```
 
 Create your own branch
